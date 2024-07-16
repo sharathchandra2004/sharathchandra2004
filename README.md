@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning frontend development
 - 🤔 I’m looking for help with Machine Learning
 - 📫 How to reach me: crsharath242004@gmail.com
-- <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
