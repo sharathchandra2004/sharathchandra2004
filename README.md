@@ -26,14 +26,6 @@
 
 <h4 align="left">Connect with me :</h4>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sharathchandra2004.sharathchandra2004&"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin/in/sharath-chandra-r.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
