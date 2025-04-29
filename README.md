@@ -1,5 +1,5 @@
 <h1 align = "center"> HOLAA 👋,SHARATH CHANDRA R HERE🤝🏻</h1>
-<h3 align="center">A PASSIONATE FRONTEND DEVELOPER | WRITER | AI ENTHUSIASIST </h3>
+<h3 align="center">A PASSIONATE PYTHON DEVELOPER | DATA SCIENCE | WRITER | AI ENTHUSIASIST </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathchandra2004&label=Profile%20views&color=0e75b6&style=flat" alt="sharathchandra2004" /> </p>
 
