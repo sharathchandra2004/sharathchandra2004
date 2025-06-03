@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathchandra2004&label=Profile%20views&color=0e75b6&style=flat" alt="sharathchandra2004" /> </p>
 
-- 🌱 I’m currently learning Frontend development
-- 🤔 I’m looking for help with Machine Learning
+- 🌱 I’m currently learning MLOPS
 - 📫 How to reach me: crsharath242004@gmail.com
 -  📝 I frequently write poems on [https://www.instagram.com/_kadalakoogu_/](https://www.instagram.com/_kadalakoogu_/)
 <div align="left">
