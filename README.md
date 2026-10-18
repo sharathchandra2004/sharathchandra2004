@@ -13,11 +13,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
----
 
-### About
+## About
 
-I’m currently working as a Full Stack Developer. I’m interested in frontend engineering, backend systems, databases, REST APIs, and building useful agentic workflows.
+Full Stack Developer with almost a year experience interested in frontend engineering, backend systems, databases, REST APIs, and building useful agentic workflows.
 
 ### Tech stack
 
